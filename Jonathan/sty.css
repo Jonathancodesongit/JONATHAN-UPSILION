@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(235, 13, 13);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:0;
+    padding:0;
+    align-content: centers;
+    text-align: center;
+    color: aliceblue;
+}
+.img-manc {
+    width: 1000px;
+    padding: top 1000px;
+    image-resolution: 500;
+    height: auto;
+    align-items: center;
+}
+
+.font-size {
+    font-size: larger;
+}
+
+.link-high{
+  font-family: monospace;
+  font-size: x-large;
+
+}
+.halland-me{
+    width: 1000px;
+  height: auto;
+  padding: top 20px;
+  line-height: 50px;
+    
+}
